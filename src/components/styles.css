@@ -1,0 +1,18 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 480px;
+}
+
+.Buttons {
+    display: flex;
+    height: 60px;
+    width: 250px;
+    margin: auto;
+    margin-top: 24px;
+    padding: 20px;
+    justify-content: space-between;
+}
